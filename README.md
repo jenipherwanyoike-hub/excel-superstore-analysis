@@ -24,4 +24,4 @@ Sample Superstore Dataset — 9,994 orders across 4 years
 - Superstore_Sales_Dashboard_Preview.pdf — Dashboard preview
 
 ## Dashboard Preview
-![Dashboard](Superstore_Sales_Dashboard_Preview.pdf)# excel-superstore-analysis
+![Dashboard](Superstore_Sales_Dashboard_Preview.pdf)
